@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\TestGB\Test_Git\bin\Debug\net6.0\Test_Git.exe
+C:\Users\admin\Desktop\TestGB\Test_Git\bin\Debug\net6.0\Test_Git.deps.json
+C:\Users\admin\Desktop\TestGB\Test_Git\bin\Debug\net6.0\Test_Git.runtimeconfig.json
+C:\Users\admin\Desktop\TestGB\Test_Git\bin\Debug\net6.0\Test_Git.dll
+C:\Users\admin\Desktop\TestGB\Test_Git\bin\Debug\net6.0\Test_Git.pdb
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.AssemblyInfo.cs
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.dll
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\refint\Test_Git.dll
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.pdb
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\Test_Git.genruntimeconfig.cache
+C:\Users\admin\Desktop\TestGB\Test_Git\obj\Debug\net6.0\ref\Test_Git.dll
